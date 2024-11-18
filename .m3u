@@ -24741,13 +24741,32 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m
 
 
 #EXTINF:-1 tvg-id="" tvg-name="L'ÉQUIPE LIVE FOOT" tvg-logo="https://up6.cc/2024/07/172039709241291.jpg" group-title="TV LIVE",L'ÉQUIPE LIVE FOOT
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/l-equipe-live-foot-dm.m3u8
-
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive5.m3u8
 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="L'ÉQUIPE" tvg-logo="https://up6.cc/2024/07/172039720497191.jpg" group-title="TV LIVE",L'ÉQUIPE
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipe.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="L'ÉQUIPE LIVE 1" tvg-logo="https://up6.cc/2024/08/172320077364881.png" group-title="TV LIVE",L'ÉQUIPE LIVE 1
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive1.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="L'ÉQUIPE LIVE 2" tvg-logo="https://up6.cc/2024/08/172320077364881.png" group-title="TV LIVE",L'ÉQUIPE LIVE 2
+https://raw.githubusercontent.com/schumijo/iptv/main/playlists/lequipe/lequipelive2.m3u8
+
 
 
 
@@ -24894,6 +24913,55 @@ https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist
 
 #EXTINF:-1 tvg-id="" tvg-name="ABU DHABI SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpmrgRc21X4rejWhLgaI1pw9w9up8jNjDJ7Y4txZkS2YWiCdiLCoz0R8VEwKTuiNp0TmiTBmh5UYsaObFrjeUmZxvVEOngI607LosivaytRPrVFO8tleSI020fo_T3_nw5ipe5TsHTSyrf8WBfR896ysUTwC8xeNzmhBQKHg4hmvpldj-u0NdyqFfTMajq/s225/images.png" group-title="TV LIVE",ABU DHABI SPORTS 1
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 1" tvg-logo="https://i.ibb.co/TmdM0Vp/Sans-titre.jpg" group-title="TV LIVE",DUBAI SPORTS 1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORTS 2" tvg-logo="https://i.ibb.co/TmdM0Vp/Sans-titre.jpg" group-title="TV LIVE",DUBAI SPORTS 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SHARJA SPORT" tvg-logo="https://i.ibb.co/BjMqdjX/Sharjah-Sport.jpg" group-title="TV LIVE",SHARJA SPORT
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="KUWAIT TV SPORTS" tvg-logo="https://i.ibb.co/XZVHd7b/Sans-titre.jpg" group-title="TV LIVE",KUWAIT TV SPORTS
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_==.m3u8
+
+
 
 
 
